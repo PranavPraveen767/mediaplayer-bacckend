@@ -1,0 +1,79 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "RDR 2",
+      "url": "https://www.cnet.com/a/img/resize/d142c92c1fcc4b84731c6ac93ffb7e7685b1db5b/hub/2018/05/02/d21050df-14e4-40f4-9ca5-04099c493b0f/41121500204-52ee24555b-h-755x425.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "embedLink": "http://www.youtube.com/embed/8cyo&t=631s"
+    },
+    {
+      "id": "2",
+      "caption": "Ghost of Tsushima",
+      "url": "https://variety.com/wp-content/uploads/2021/03/ghost-of-tsushima-background-block-01-ps4-en-21jul20.jpeg",
+      "embedLink": "http://www.youtube.com/embed/A5gVt028Hww"
+    },
+    {
+      "id": "3",
+      "caption": "Far Cry 3",
+      "url": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-743337-52.jpg",
+      "embedLink": "http://www.youtube.com/embed/QfdIE&t=15s"
+    },
+    {
+      "id": "4",
+      "caption": "Far Cry 5",
+      "url": "https://cdn.vox-cdn.com/thumbor/cTHTtzSe8o-1iVQBxXWsfy_6OS8=/474x1094:6690x3901/1200x675/filters:focal(2990x1538:4110x2658)/cdn.vox-cdn.com/uploads/chorus_image/image/54957177/Far_Cry_5_Key_Art_Wide_1495770936.1495764208.jpg",
+      "embedLink": "http://www.youtube.com/embed/Kdaoe4hbMso"
+    },
+    {
+      "id": "5",
+      "caption": "GTA 5",
+      "url": "https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg?t=1695060909",
+      "embedLink": "http://www.youtube.com/embed/PvT8Kx1WC64"
+    },
+    {
+      "id": "6",
+      "caption": "Dissolve",
+      "url": "https://linkstorage.linkfire.com/medialinks/images/375ed0bb-82d8-45f3-b735-ea336437dece/artwork-440x220.jpg",
+      "embedLink": "http://www.youtube.com/embed/AyPQehYfvvE"
+    },
+    {
+      "id": "8",
+      "caption": "Games",
+      "url": "https://media.gq-magazine.co.uk/photos/645b5c3c8223a5c3801b8b26/16:9/w_1280,c_limit/100-best-games-hp-b.jpg",
+      "embedLink": "http://www.youtube.com/embed/m7_Ug1gSDN0"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Game",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "English Songs",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Dissolve",
+          "url": "https://linkstorage.linkfire.com/medialinks/images/375ed0bb-82d8-45f3-b735-ea336437dece/artwork-440x220.jpg",
+          "embedLink": "http://www.youtube.com/embed/AyPQehYfvvE"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Far Cry 3",
+      "embedLink": "http://www.youtube.com/embed/QfdIE&t=15s",
+      "timestamp": "26/12/2023, 18:54:22",
+      "id": 1
+    },
+    {
+      "caption": "RDR 2",
+      "embedLink": "http://www.youtube.com/embed/8cyo&t=631s",
+      "timestamp": "27/12/2023, 17:43:38",
+      "id": 2
+    }
+  ]
+}
